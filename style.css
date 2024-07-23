@@ -6,7 +6,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-<<<<<<< HEAD
 .logo-video {
     border-radius: 10%;
     transition: .2s;
@@ -16,16 +15,6 @@
 .logo-video:hover {
     box-shadow: 0 0 8px blue;
     transform: scale(1.08);
-=======
-.logo-Img {
-    border-radius: 50px;
-    transition: .2s;
-}
-
-.logo-Img:hover {
-    box-shadow: 0 0 8px blue;
-    transform: scale(1.2);
->>>>>>> 3a58c8dc0f65ba3f16b7eb9d10f452a709dedfc4
 }
 
 body {
@@ -110,11 +99,6 @@ section.topo-do-site{
     margin-bottom: 10px;
 }
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 3a58c8dc0f65ba3f16b7eb9d10f452a709dedfc4
 section.topo-do-site .flex{
     align-items: center;
     justify-content: center;
@@ -136,7 +120,6 @@ section.topo-do-site .flex{
     text-align: justify;
 }
 
-<<<<<<< HEAD
 .btn-curriculo button{
     padding: 10px 40px;
     font-size: 15px;
@@ -153,8 +136,6 @@ section.topo-do-site .flex{
     transform: scale(1.08); 
 }
 
-=======
->>>>>>> 3a58c8dc0f65ba3f16b7eb9d10f452a709dedfc4
 section.topo-do-site .flex .img-topo-site{
     border-radius: 500px;
 }
@@ -391,13 +372,10 @@ footer .line-footer p a{
         flex-direction: column;
     }
 
-<<<<<<< HEAD
     h2.titulo{
         line-height: 40px;
     }
 
-=======
->>>>>>> 3a58c8dc0f65ba3f16b7eb9d10f452a709dedfc4
     .topo-do-site .flex{
         flex-direction: column-reverse;
     }
@@ -407,7 +385,6 @@ footer .line-footer p a{
         display: none;
     }
 
-<<<<<<< HEAD
     .logo {
         display: flex;
         justify-content: center;
@@ -422,14 +399,11 @@ footer .line-footer p a{
         object-fit: cover;
     }
 
-=======
->>>>>>> 3a58c8dc0f65ba3f16b7eb9d10f452a709dedfc4
     /* TOPO DO SITE */
     .topo-do-site h1{
         line-height: 40px;
         text-align: center;
     }
-<<<<<<< HEAD
 
     .btn-curriculo {
         display: flex;
@@ -494,8 +468,6 @@ footer .line-footer p a{
     footer .line-footer{
         text-align: center;
     }
-=======
->>>>>>> 3a58c8dc0f65ba3f16b7eb9d10f452a709dedfc4
 }
 
 
